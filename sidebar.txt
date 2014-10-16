@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[awe:home|Door43 (awe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-awe|d43-awe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-awe/archive/master.zip|d43-awe.zip]]
+
+**Recent Changes**
+{{changes>ns = awe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/awe|Ethnologue data]]
+
